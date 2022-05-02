@@ -14,3 +14,5 @@ they are just examples.
 several of the same mistakes over and over, but finally got it working correctly and tested it
 . In terms of optimizing it for mobile/tablet view, i still need some work. Working through that now - the mobile and tablet views are not going 
 to be exactly the same, but I need to work towards making them equally visually appealing, symmetrical and usable as the desktop view. 
+5/1 - Adding buttons with links to each page, each example page has come out pretty good. Still working some kinks out on the tablet and cell 
+phone views. 
